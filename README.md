@@ -3,7 +3,7 @@
 ## Stage 0. Self-Study
 
 ### General Basics
-- [x] 0. Git Basics
+- [x] 0. Git Basics — <a href="https://raw.githubusercontent.com/alexdefender/kottans-frontend/master/git-basics/Screenshot_2018-12-08_06-42-22.png">screenshot</a>
 - [ ] 1. Linux CLI and Networking
 - [ ] 2. VCS (hello gitty), GitHub and Collaboration
 
