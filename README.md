@@ -3,7 +3,7 @@
 ## Stage 0. Self-Study
 
 ### General Basics
-- [ ] 0. Git Basics
+- [x] 0. Git Basics
 - [ ] 1. Linux CLI and Networking
 - [ ] 2. VCS (hello gitty), GitHub and Collaboration
 
