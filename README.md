@@ -8,7 +8,7 @@
 - [x] 2. VCS (hello gitty), GitHub and Collaboration — <a href="https://raw.githubusercontent.com/alexdefender/kottans-frontend/master/task_git_collaboration/Screenshot_2018-12-12_06-13-15.png" target="_blank">(1) screenshot</a>, <a href="https://raw.githubusercontent.com/alexdefender/kottans-frontend/master/task_git_collaboration/Screenshot_2018-12-14_06-32-37.png" target="_blank">(2) screenshot</a>. «This is a very interesting course and different from what was in Git Basics. On the one hand I repeated the information, but on the other I learned new commands. I had some difficulties with git rebase but I think I will resolve this issue in the near future. Thank you!»
 
 ### Front-End Basics
-- [ ] 3. Intro to HTML & CSS
+- [x] 3. Intro to HTML & CSS — <a href="https://raw.githubusercontent.com/alexdefender/kottans-frontend/master/task_html_css_intro/Screenshot_2018-12-15_10-27-14.png" target="_blank">(1) screenshot</a>, (2) screenshot.
 - [ ] 4. Responsive Web Design
 - [ ] 5. JavaScript Basics
 - [ ] 6. Document Object Model - practice
