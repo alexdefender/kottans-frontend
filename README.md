@@ -10,7 +10,7 @@
 ### Front-End Basics
 - [x] 3. Intro to HTML & CSS — <a href="https://raw.githubusercontent.com/alexdefender/kottans-frontend/master/task_html_css_intro/Screenshot_2018-12-15_10-27-14.png" target="_blank">(1) screenshot</a>, <a href="https://raw.githubusercontent.com/alexdefender/kottans-frontend/master/task_html_css_intro/Screenshot_2018-12-19_05-59-39.png" target="_blank">(2) screenshot</a>, <a href="https://raw.githubusercontent.com/alexdefender/kottans-frontend/master/task_html_css_intro/Screenshot_2018-12-19_06-00-24.png" target="_blank">(2.1) screenshot</a>, <a href="https://raw.githubusercontent.com/alexdefender/kottans-frontend/master/task_html_css_intro/Screenshot_2018-12-19_06-00-33.png" target="_blank">(2.2) screenshot</a>.
 - [x] 4. Responsive Web Design — <a href="https://raw.githubusercontent.com/alexdefender/kottans-frontend/master/task_responsive_web_design/Screenshot_2018-12-21_06-35-50.png" target="_blank">(1) screenshot</a>, <a href="https://raw.githubusercontent.com/alexdefender/kottans-frontend/master/task_responsive_web_design/Screenshot_2018-12-22_05-06-59.png" target="_blank">(2) screenshot</a>. «For me, this courses has given a lot of new information. Thank you!»
-- [ ] 5. JavaScript Basics
+- [ ] 5. JavaScript Basics —  <a href="https://raw.githubusercontent.com/alexdefender/kottans-frontend/master/task_js_basics/Screenshot_2018-12-25_05-44-17" target="_blank">(1) screenshot</a>
 - [ ] 6. Document Object Model - practice
 
 ### Advanced Topics
