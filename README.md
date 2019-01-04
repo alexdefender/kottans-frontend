@@ -14,8 +14,8 @@
 - [x] 6. Document Object Model - practice  — <a href="https://raw.githubusercontent.com/alexdefender/kottans-frontend/master/task_js_dom/Screenshot_2018-12-29_17-08-18.png" target="_blank">(1) screenshot</a>, <a href="https://raw.githubusercontent.com/alexdefender/kottans-frontend/master/task_js_dom/Screenshot_2018-12-30_13-03-52.png" target="_blank">(2) screenshot</a>. — waiting for a check from the mentor
 
 ### Advanced Topics
-- [ ] 7. Building a Tiny JS World (pre-OOP) - practice — waiting for a check from the mentor
-- [ ] 8. Object oriented JS - practice — in process
+- [x] 7. Building a Tiny JS World (pre-OOP) - practice — [Demo](https://alexdefender.github.io/a-tiny-JS-world/) | [Code base](https://github.com/alexdefender/a-tiny-JS-world). Reviewed and approved by @OleksiyRudenko
+- [ ] 8. Object oriented JS - practice — waiting for a check from the mentor
 - [ ] 9. OOP exercise - practice
 - [ ] 10. Offline Web Applications
 - [ ] 11. Memory pair game — real project!
