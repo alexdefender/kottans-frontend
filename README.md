@@ -15,7 +15,7 @@
 
 ### Advanced Topics
 - [x] 7. Building a Tiny JS World (pre-OOP) - practice — [Demo](https://alexdefender.github.io/a-tiny-JS-world/) | [Code base](https://github.com/alexdefender/a-tiny-JS-world). Reviewed and approved by @OleksiyRudenko
-- [x] 8. Object oriented JS - practice — [(1) screenshot](https://raw.githubusercontent.com/alexdefender/kottans-frontend/master/task_js_oop/Screenshot_2019-01-04_05-20-10.png) — waiting for a check from the mentor
+- [x] 8. Object oriented JS - practice — [(1) screenshot](https://raw.githubusercontent.com/alexdefender/kottans-frontend/master/task_js_oop/Screenshot_2019-01-04_05-20-10.png). [Demo](https://alexdefender.github.io/frogger-arcade-game/) | [Code base](https://github.com/alexdefender/frogger-arcade-game) — waiting for a check from the mentor
 - [ ] 9. OOP exercise - practice
 - [ ] 10. Offline Web Applications
 - [ ] 11. Memory pair game — real project!
