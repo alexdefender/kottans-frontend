@@ -14,10 +14,10 @@
 - [x] 6. [Document Object Model](https://github.com/kottans/frontend/blob/master/tasks/js-dom.md) - practice — [(1) screenshot](https://raw.githubusercontent.com/alexdefender/kottans-frontend/master/task_js_dom/Screenshot_2018-12-29_17-08-18.png), [(2) screenshot](https://raw.githubusercontent.com/alexdefender/kottans-frontend/master/task_js_dom/Screenshot_2018-12-30_13-03-52.png). [Demo](https://alexdefender.github.io/js-dom-side-menu/) | [Code base](https://github.com/alexdefender/js-dom-side-menu). Reviewed and approved by **@A-Ostrovnyy**.
 
 ### Advanced Topics
-- [x] 7. [Building a Tiny JS World (pre-OOP)](https://github.com/kottans/frontend/blob/master/tasks/js-pre-oop.md) - practice — [Demo](https://alexdefender.github.io/a-tiny-JS-world/) | [Code base](https://github.com/alexdefender/a-tiny-JS-world). Reviewed and approved by **@OleksiyRudenko**.
+- [x] 7. [Building a Tiny JS World (pre-OOP)](https://github.com/kottans/frontend/blob/master/tasks/js-pre-oop.md) - practice — [Demo](https://alexdefender.github.io/a-tiny-JS-world/) | [Code base](https://github.com/alexdefender/a-tiny-JS-world). — Reviewed and approved by **@OleksiyRudenko**.
 - [x] 8. [Object oriented JS](https://github.com/kottans/frontend/blob/master/tasks/js-oop.md) - practice — [(1) screenshot](https://raw.githubusercontent.com/alexdefender/kottans-frontend/master/task_js_oop/Screenshot_2019-01-04_05-20-10.png). [Demo](https://alexdefender.github.io/frogger-arcade-game/) | [Code base](https://github.com/alexdefender/frogger-arcade-game) — Reviewed and approved by **@OleksiyRudenko**.
-- [x] 9. [OOP exercise](https://github.com/kottans/frontend/blob/master/tasks/js-post-oop.md) - practice — waiting for a check from the mentor.
+- [x] 9. [OOP exercise](https://github.com/kottans/frontend/blob/master/tasks/js-post-oop.md) - practice — [Code base](https://github.com/alexdefender/frontend-2019-homeworks/tree/a-tiny-ls-world-oop/submissions/alexdefender/a-tiny-JS-world-oop) — waiting for a check from the mentor.
 - [ ] 10. [Offline Web Applications](https://github.com/kottans/frontend/blob/master/tasks/app-design-offline.md)
-- [ ] 11. [Memory pair game](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md) — real project!
+- [x] 11. [Memory pair game](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md) — real project! [Demo](https://alexdefender.github.io/memory-pair-game/) | [Code base](https://github.com/alexdefender/memory-pair-game) — waiting for a check from the mentor.
 - [ ] 12. [Website Performance Optimization](https://github.com/kottans/frontend/blob/master/tasks/app-design-performance.md)
 - [ ] 13. [Friends App](https://github.com/kottans/frontend/blob/master/tasks/friends-app.md) - real project!
