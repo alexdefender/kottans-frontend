@@ -20,4 +20,4 @@
 - [ ] 10. [Offline Web Applications](https://github.com/kottans/frontend/blob/master/tasks/app-design-offline.md)
 - [x] 11. [Memory pair game](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md) — real project! [Demo](https://alexdefender.github.io/memory-pair-game/) | [Code base](https://github.com/alexdefender/memory-pair-game) — Reviewed and approved by **@zonzujiro**.
 - [ ] 12. [Website Performance Optimization](https://github.com/kottans/frontend/blob/master/tasks/app-design-performance.md)
-- [ ] 13. [Friends App](https://github.com/kottans/frontend/blob/master/tasks/friends-app.md) - real project! [Demo](https://alexdefender.github.io/friends-app/) | [Code base](https://github.com/alexdefender/friends-app) — waiting for a check from the mentor.
+- [x] 13. [Friends App](https://github.com/kottans/frontend/blob/master/tasks/friends-app.md) - real project! [Demo](https://alexdefender.github.io/friends-app/) | [Code base](https://github.com/alexdefender/friends-app) — waiting for a check from the mentor.
