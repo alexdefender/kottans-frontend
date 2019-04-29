@@ -24,4 +24,6 @@
 - [x] 14. [Friends App](https://github.com/kottans/frontend/blob/master/tasks/friends-app.md) - real project! [Demo](https://alexdefender.github.io/friends-app/) | [Code base](https://github.com/alexdefender/friends-app) — Reviewed and approved by **@zonzujiro**.
 
 ## Stage 1. The Show Must Go On
-- [x] [HTML5: Forms](https://github.com/kottans/frontend/blob/master/tasks/html5-forms.md) — [Demo](https://alexdefender.github.io/html5-order-form/) | [Code base](https://github.com/alexdefender/html5-order-form)
+- [x] [HTML5: Forms](https://github.com/kottans/frontend/blob/master/SCHEDULE.md) — [Demo](https://alexdefender.github.io/html5-order-form/) | [Code base](https://github.com/alexdefender/html5-order-form) — Reviewed and approved by **@yevhenorlov**.
+- [x] [Component Weather App](https://github.com/kottans/frontend/blob/master/SCHEDULE.md) — [Demo](https://alexdefender.github.io/weather-app-component/) | [Code base](https://github.com/alexdefender/weather-app-component)
+- [x] [Friends App React](https://github.com/kottans/frontend/blob/master/SCHEDULE.md) — [Demo](https://alexdefender.github.io/friends-app-react/) | [Code base](https://github.com/alexdefender/friends-app-react)
